@@ -8,8 +8,6 @@ This repository contains a list of the certificates from the courses I have comp
 
 ## Digital Innovation One
 
-<hr>
-
 ### Essential Programming Logic
 
 - **Modality**: Online
@@ -26,8 +24,6 @@ This repository contains a list of the certificates from the courses I have comp
 <hr>
 
 ## Udemy
-
-<hr>
 
 ### Complete Modern Web Course with JavaScript 2021 + Projects
 

@@ -8,8 +8,6 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 ## Digital Innovation One
 
-<hr>
-
 ### Lógica de Programação Essencial
 
 - **Modalidade**: Online
@@ -26,8 +24,6 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 <hr>
 
 ## Udemy
-
-<hr>
 
 ### Curso Web Moderno Completo com JavaScript 2021 + Projetos
 
