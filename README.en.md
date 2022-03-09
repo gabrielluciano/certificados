@@ -1,10 +1,35 @@
 # Certificates
 
-This repository contains a list of the certificates from the courses I have completed arranged in alphabetical order.
+This repository contains a list of the certificates from the courses I have completed organized by institution and arranged in alphabetical order.
 
 *Leia em português: [Português Brasileiro](README.md).*
 
-## Complete Modern Web Course with JavaScript 2021 + Projects
+<hr>
+
+## Digital Innovation One
+
+<hr>
+
+### Essential Programming Logic
+
+- **Modality**: Online
+- **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Emission date**: March 9, 2022.
+- **Certificate Link**: [9B04E3C0](https://www.dio.me/certificate/9B04E3C0)
+
+<details>
+<summary>View certificate</summary>
+
+<img width="100%" src="./src/img/9B04E3C0.jpg" alt="Essential Programming Logic Certificate">
+</details>
+
+<hr>
+
+## Udemy
+
+<hr>
+
+### Complete Modern Web Course with JavaScript 2021 + Projects
 
 - **Modality**: Online
 - **Institution**: [Udemy](https://www.udemy.com/course/curso-web)
@@ -15,5 +40,5 @@ This repository contains a list of the certificates from the courses I have comp
 <details>
 <summary>View certificate</summary>
 
-<img width="100%" src="./src/UC-cfcfd4ed-7c23-418d-9aba-26945c3450ef.jpg" alt="Certificado do Curso Web Moderno">
+<img width="100%" src="./src/img/UC-cfcfd4ed-7c23-418d-9aba-26945c3450ef.jpg" alt="Modern Web Course Certificate">
 </details>
