@@ -12,13 +12,14 @@ This repository contains a list of the certificates from the courses I have comp
 
 - **Modality**: Online
 - **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Repository**: [projetos-ageis-com-scrum](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/projetos-ageis-com-scrum)
 - **Emission date**: March 14, 2022.
 - **Certificate Link**: [A7748975](https://www.dio.me/certificate/A7748975)
 
 <details>
-<summary>Ver certificado</summary>
+<summary>View certificate</summary>
 
-<img width="100%" src="./src/img/A7748975.jpg" alt="Agile Projects with SCRUM Certificate">
+<img width="100%" src="./src/img/A7748975.jpg" alt="Agile Projects with SCRUM Course Certificate">
 </details>
 
 <hr>
@@ -33,7 +34,23 @@ This repository contains a list of the certificates from the courses I have comp
 <details>
 <summary>View certificate</summary>
 
-<img width="100%" src="./src/img/9B04E3C0.jpg" alt="Essential Programming Logic Certificate">
+<img width="100%" src="./src/img/9B04E3C0.jpg" alt="Essential Programming Logic Course Certificate">
+</details>
+
+<hr>
+
+### Introduction to Git and GitHub
+
+- **Modality**: Online
+- **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Repository**: [introducao-ao-git](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-git)
+- **Emission date**: March 14, 2022.
+- **Link do Certificado**: [350E8910](https://www.dio.me/certificate/350E8910)
+
+<details>
+<summary>View certificate</summary>
+
+<img width="100%" src="./src/img/350E8910.jpg" alt="Introduction to Git and GitHub Course Certificate">
 </details>
 
 <hr>

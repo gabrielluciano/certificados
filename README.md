@@ -8,6 +8,22 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 ## Digital Innovation One
 
+### Introdução ao Git e ao GitHub
+
+- **Modalidade**: Online
+- **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Repositório**: [introducao-ao-git](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-git)
+- **Data da emissão**: 14 de março de 2022.
+- **Link do Certificado**: [350E8910](https://www.dio.me/certificate/350E8910)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/350E8910.jpg" alt="Certificado do Curso Introdução ao Git e ao GitHub">
+</details>
+
+<hr>
+
 ### Lógica de Programação Essencial
 
 - **Modalidade**: Online
@@ -27,6 +43,7 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 - **Modalidade**: Online
 - **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Repositório**: [projetos-ageis-com-scrum](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/projetos-ageis-com-scrum)
 - **Data da emissão**: 14 de março de 2022.
 - **Link do Certificado**: [A7748975](https://www.dio.me/certificate/A7748975)
 
