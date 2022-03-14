@@ -45,7 +45,7 @@ This repository contains a list of the certificates from the courses I have comp
 - **Institution**: [Digital Innovation One](https://www.dio.me/)
 - **Repository**: [introducao-ao-git](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-git)
 - **Emission date**: March 14, 2022.
-- **Link do Certificado**: [350E8910](https://www.dio.me/certificate/350E8910)
+- **Certificate Link**: [350E8910](https://www.dio.me/certificate/350E8910)
 
 <details>
 <summary>View certificate</summary>
