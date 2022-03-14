@@ -23,6 +23,21 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 <hr>
 
+### Projetos Ágeis com SCRUM
+
+- **Modalidade**: Online
+- **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Data da emissão**: 14 de março de 2022.
+- **Link do Certificado**: [A7748975](https://www.dio.me/certificate/A7748975)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/A7748975.jpg" alt="Certificado do Curso Projetos Ágeis com SCRUM">
+</details>
+
+<hr>
+
 ## Udemy
 
 ### Curso Web Moderno Completo com JavaScript 2021 + Projetos

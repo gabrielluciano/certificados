@@ -8,6 +8,21 @@ This repository contains a list of the certificates from the courses I have comp
 
 ## Digital Innovation One
 
+### Agile Projects with SCRUM
+
+- **Modality**: Online
+- **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Emission date**: March 14, 2022.
+- **Certificate Link**: [A7748975](https://www.dio.me/certificate/A7748975)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/A7748975.jpg" alt="Agile Projects with SCRUM Certificate">
+</details>
+
+<hr>
+
 ### Essential Programming Logic
 
 - **Modality**: Online
