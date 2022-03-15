@@ -31,6 +31,22 @@ _Leia em português: [Português Brasileiro](README.md)._
 
 <hr>
 
+### Essential ES6 JavaScript
+
+- **Modality**: Online
+- **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Repository**: [javascript-es6-essencia](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/javascript-es6-essencial)
+- **Emission date**: March 15, 2022.
+- **Certificate Link**: [9B3550B2](https://www.dio.me/certificate/9B3550B2)
+
+<details>
+<summary>View certificate</summary>
+
+<img width="100%" src="./src/img/9B3550B2.jpg" alt="Essential ES6 JavaScript Course Certificate">
+</details>
+
+<hr>
+
 ### Essential Programming Logic
 
 - **Modality**: Online

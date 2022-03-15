@@ -47,6 +47,22 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 <hr>
 
+### JavaScript ES6 Essencial
+
+- **Modalidade**: Online
+- **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Repositório**: [javascript-es6-essencia](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/javascript-es6-essencial)
+- **Data da emissão**: 15 de março de 2022.
+- **Link do Certificado**: [9B3550B2](https://www.dio.me/certificate/9B3550B2)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/9B3550B2.jpg" alt="Certificado do Curso JavaScript ES6 Essencial">
+</details>
+
+<hr>
+
 ### Lógica de Programação Essencial
 
 - **Modalidade**: Online
