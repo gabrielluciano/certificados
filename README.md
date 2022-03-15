@@ -8,6 +8,22 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 ## Digital Innovation One
 
+### Introdução a criação de websites com HTML5 e CSS3
+
+- **Modalidade**: Online
+- **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Repositório**: [introducao-ao-html5-e-css3](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-html5-e-css3)
+- **Data da emissão**: 15 de março de 2022.
+- **Link do Certificado**: [B078A23D](https://www.dio.me/certificate/B078A23D)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/B078A23D.jpg" alt="Certificado do Curso Introdução a criação de websites com HTML5 e CSS3">
+</details>
+
+<hr>
+
 ### Introdução ao Git e ao GitHub
 
 - **Modalidade**: Online

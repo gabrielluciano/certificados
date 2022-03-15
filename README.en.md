@@ -55,6 +55,22 @@ This repository contains a list of the certificates from the courses I have comp
 
 <hr>
 
+### Introduction to website creation with HTML5 and CSS3
+
+- **Modality**: Online
+- **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Repository**: [introducao-ao-html5-e-css3](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-html5-e-css3)
+- **Emission date**: March 15, 2022.
+- **Certificate Link**: [B078A23D](https://www.dio.me/certificate/B078A23D)
+
+<details>
+<summary>View certificate</summary>
+
+<img width="100%" src="./src/img/B078A23D.jpg" alt="Introduction to website creation with HTML5 and CSS3 Course Certificate">
+</details>
+
+<hr>
+
 ## Udemy
 
 ### Complete Modern Web Course with JavaScript 2021 + Projects
