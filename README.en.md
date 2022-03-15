@@ -2,7 +2,14 @@
 
 This repository contains a list of the certificates from the courses I have completed organized by institution and arranged in alphabetical order.
 
-*Leia em português: [Português Brasileiro](README.md).*
+_Leia em português: [Português Brasileiro](README.md)._
+
+<hr>
+
+**Browse by Institution**
+
+- [Digital Innovation One - DIO](##digital-innovation-one)
+- [Udemy](##udemy)
 
 <hr>
 

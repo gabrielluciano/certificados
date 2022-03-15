@@ -6,6 +6,13 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 <hr>
 
+**Navegue por instituição**
+
+- [Digital Innovation One - DIO](##digital-innovation-one)
+- [Udemy](##udemy)
+
+<hr>
+
 ## Digital Innovation One
 
 ### Introdução a criação de websites com HTML5 e CSS3
