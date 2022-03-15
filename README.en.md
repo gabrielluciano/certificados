@@ -8,8 +8,8 @@ _Leia em português: [Português Brasileiro](README.md)._
 
 **Browse by Institution**
 
-- [Digital Innovation One - DIO](##digital-innovation-one)
-- [Udemy](##udemy)
+- [Digital Innovation One - DIO](#digital-innovation-one)
+- [Udemy](#udemy)
 
 <hr>
 

@@ -8,8 +8,8 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 **Navegue por instituição**
 
-- [Digital Innovation One - DIO](##digital-innovation-one)
-- [Udemy](##udemy)
+- [Digital Innovation One - DIO](#digital-innovation-one)
+- [Udemy](#udemy)
 
 <hr>
 
