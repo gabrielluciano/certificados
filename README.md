@@ -15,6 +15,22 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 ## Digital Innovation One
 
+### Desenvolvimento avançado com JavaScript ES6
+
+- **Modalidade**: Online
+- **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Repositório**: [javascript-es6-avancado](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/javascript-es6-avancado)
+- **Data da emissão**: 17 de março de 2022.
+- **Link do Certificado**: [4AC822BC](https://www.dio.me/certificate/4AC822BC)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/4AC822BC.jpg" alt="Certificado do Curso Desenvolvimento avançado com JavaScript ES6">
+</details>
+
+<hr>
+
 ### Introdução a criação de websites com HTML5 e CSS3
 
 - **Modalidade**: Online
@@ -51,7 +67,7 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 - **Modalidade**: Online
 - **Instituição**: [Digital Innovation One](https://www.dio.me/)
-- **Repositório**: [javascript-es6-essencia](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/javascript-es6-essencial)
+- **Repositório**: [javascript-es6-essencial](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/javascript-es6-essencial)
 - **Data da emissão**: 15 de março de 2022.
 - **Link do Certificado**: [9B3550B2](https://www.dio.me/certificate/9B3550B2)
 
