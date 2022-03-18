@@ -63,6 +63,22 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 <hr>
 
+### Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+
+- **Modalidade**: Online
+- **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Repositório**: [introducao-ao-typescript](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-typescript)
+- **Data da emissão**: 17 de março de 2022.
+- **Link do Certificado**: [814FC012](https://www.dio.me/certificate/814FC012)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/814FC012.jpg" alt="Certificado do Curso Introdução ao TypeScript">
+</details>
+
+<hr>
+
 ### JavaScript ES6 Essencial
 
 - **Modalidade**: Online

@@ -94,6 +94,22 @@ _Leia em português: [Português Brasileiro](README.md)._
 
 <hr>
 
+### Introduction to TypeScript: Exploring Classes, Types and Interfaces
+
+- **Modality**: Online
+- **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Repository**: [introducao-ao-typescript](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-typescript)
+- **Emission date**: March 17, 2022.
+- **Certificate Link**: [814FC012](https://www.dio.me/certificate/814FC012)
+
+<details>
+<summary>View certificate</summary>
+
+<img width="100%" src="./src/img/814FC012.jpg" alt="Introduction to TypeScript Course Certificate">
+</details>
+
+<hr>
+
 ### Introduction to website creation with HTML5 and CSS3
 
 - **Modality**: Online
