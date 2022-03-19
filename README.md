@@ -63,6 +63,22 @@ Este repositório contém uma lista com os certificados dos cursos que concluí 
 
 <hr>
 
+### Introdução ao ReactJS
+
+- **Modalidade**: Online
+- **Instituição**: [Digital Innovation One](https://www.dio.me/)
+- **Repositório**: [introducao-ao-reactjs](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-reactjs)
+- **Data da emissão**: 19 de março de 2022.
+- **Link do Certificado**: [A3EF7ABE](https://www.dio.me/certificate/A3EF7ABE)
+
+<details>
+<summary>Ver certificado</summary>
+
+<img width="100%" src="./src/img/A3EF7ABE.jpg" alt="Certificado do Curso Introdução ao ReactJS">
+</details>
+
+<hr>
+
 ### Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
 
 - **Modalidade**: Online

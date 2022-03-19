@@ -94,6 +94,22 @@ _Leia em português: [Português Brasileiro](README.md)._
 
 <hr>
 
+### Introduction to ReactJS
+
+- **Modality**: Online
+- **Institution**: [Digital Innovation One](https://www.dio.me/)
+- **Repository**: [introducao-ao-reactjs](https://github.com/gabrielluciano/cursos-dio/tree/main/cursos/introducao-ao-reactjs)
+- **Emission date**: March 19, 2022.
+- **Certificate Link**: [A3EF7ABE](https://www.dio.me/certificate/A3EF7ABE)
+
+<details>
+<summary>View certificate</summary>
+
+<img width="100%" src="./src/img/A3EF7ABE.jpg" alt="Introduction to ReactJS Course Certificate">
+</details>
+
+<hr>
+
 ### Introduction to TypeScript: Exploring Classes, Types and Interfaces
 
 - **Modality**: Online
